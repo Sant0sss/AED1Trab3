@@ -9,7 +9,7 @@
 
 <h3>Link do Código no LeetCode: </h3>
 <blockquote><h5>Link do Código no LeetCode</h4>
-<a href="https://leetcode.com/problems/cousins-in-binary-tree/">LeetCode 1700</a></blockquote> 
+<a href="https://leetcode.com/problems/cousins-in-binary-tree/">LeetCode 993</a></blockquote> 
 
 <h3>Link do Video Explicação: </h3>
 <blockquote><h5>Link do Video Explicação</h4>
