@@ -15,7 +15,7 @@ ou seja, mostrando o resultado como false sempre. Tentei arrumar mas por conta d
 
 <h3>Link do Video Explicação: </h3>
 <blockquote><h5>Link do Video Explicação</h4>
-<a href="">Video Explicação</a></blockquote> 
+<a href="https://drive.google.com/file/d/18E0qRsH8DesR238Ivp4m2gFWFdDhm0fZ/view?usp=sharing">Video Explicação</a></blockquote> 
 
 <h3>Informações do Aluno: </h3>
 <blockquote><h5>Nome: Arthur Ferreira dos Santos</h4>
